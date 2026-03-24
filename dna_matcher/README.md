@@ -13,7 +13,7 @@ It was developed as a logic and data manipulation exercise, making it a solid en
 
 ##  Usage
 1. Clone this repository:
-   git clone https://github.com/vitorbech/dna-matcher.git
+   git clone https://github.com/vitorhbech/cs50.git
    cd dna-matcher
    
 2. Run the program with the database and sequence files as arguments:
